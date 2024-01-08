@@ -1,3 +1,5 @@
 print("Hello\n")
 print("Second commit\n")
 print("Second commit repeat\n")
+print("Third commit\n")
+print("Third commit_repeat\n")
