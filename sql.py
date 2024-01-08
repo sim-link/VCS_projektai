@@ -1,1 +1,1 @@
-print("Sql pakeitimai")
+# print("Sql pakeitimai")
