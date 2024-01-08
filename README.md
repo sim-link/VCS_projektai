@@ -1,0 +1,1 @@
+VCS projektai. Testuojam git funkcijas
